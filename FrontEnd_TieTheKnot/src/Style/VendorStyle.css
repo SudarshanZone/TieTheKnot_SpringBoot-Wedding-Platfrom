@@ -1,0 +1,31 @@
+/* Vendor Form Styles */
+.vendor-form {
+    max-width: 600px;
+    margin: 5px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .vendor-form h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .vendor-form .form-label {
+    font-weight: bold;
+  }
+  
+  .vendor-form .mb-3 {
+    margin-bottom: 20px;
+  }
+  
+  .vendor-form .btn-center {
+    text-align: center;
+  }
+  
+  .vendor-form .toast-container {
+    width: 300px;
+  }
+  

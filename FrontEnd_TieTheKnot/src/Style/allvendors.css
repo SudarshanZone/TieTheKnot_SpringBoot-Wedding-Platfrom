@@ -1,0 +1,32 @@
+/* Vendor.css */
+
+/* Apply consistent styles to all elements */
+
+.vendor-container2 {
+    max-width: 1450px; /* Limit maximum width for better readability */
+    width: 100%; /* Take full width of the screen */
+    margin: 0 auto; /* Center align */
+  }
+  
+  .custom-card {
+    margin-bottom: 20px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+    display: flex; /* Ensure pagination is displayed as flex */
+    justify-content: center; /* Center align pagination */
+  }
+  
+  .pagination-item {
+    cursor: pointer;
+  }
+  

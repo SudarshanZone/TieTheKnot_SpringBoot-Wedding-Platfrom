@@ -1,0 +1,127 @@
+/* VendorComponent.css */
+
+.vendor-form-container {
+  border: 1px solid #ddd; /* You can customize the border color */
+  padding: 20px; /* Add some padding for better appearance */
+  margin: 20px; /* Add some margin to separate it from surrounding elements */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+.vendor-container {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.vendor-header {
+  margin-bottom: 20px;
+}
+
+.vendor-list li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+/* form-styles.css */
+
+.vendor-container {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.vendor-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.vendor-list {
+  list-style: none;
+  padding: 0;
+}
+
+.vendor-list li {
+  margin-bottom: 20px;
+}
+
+.vendor-form input,
+.vendor-form textarea {
+  width: 25%;
+  padding: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.vendor-form button {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.vendor-form button:hover {
+  background-color: #0056b3;
+}
+
+.vendor-form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.vendor-form h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+/* form-styles.css */
+
+.vendor-container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.vendor-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.vendor-list {
+  list-style: none;
+  padding: 0;
+}
+
+.vendor-list li {
+  margin-bottom: 20px;
+}
+
+.vendor-form input,
+.vendor-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.vendor-form button {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.vendor-form button:hover {
+  background-color: #0056b3;
+}
+
+.vendor-form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.vendor-form h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}

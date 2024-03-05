@@ -1,0 +1,62 @@
+/* AdminLoginStyle.css */
+
+.admin-login-container {
+  width: 50%;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fccb90;
+  background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+  background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.admin-login-container h2 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.admin-login-container label {
+  color: #fff;
+}
+
+.admin-login-container input[type="text"],
+.admin-login-container input[type="password"] {
+  margin-bottom: 10px;
+}
+
+.admin-login-container button {
+  margin-top: 20px;
+  align-self: center;
+  background-color: #6C22A6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.admin-login-container button:hover {
+  background-color: #501A73;
+}
+
+.admin-login-container .error {
+  color: red;
+  margin-top: 10px;
+  text-align: center;
+  color: #fff;
+}
+
+.admin-messages {
+  margin-top: 30px;
+}
+
+.admin-messages h3 {
+  margin-bottom: 10px;
+  color: #fff;
+}
+

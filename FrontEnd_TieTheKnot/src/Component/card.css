@@ -1,0 +1,69 @@
+Add this CSS to your stylesheets or a separate CSS file
+
+/* Custom styles for the AllUsers component */
+.all-users-container {
+    padding: 20px;
+  }
+  
+  /* Custom styles for the Bootstrap cards */
+  .custom-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .edit-button {
+    margin-top: 10px;
+  }
+  
+  .delete-button {
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  /* card.css */
+  
+  .card {
+    background-color: #ffffff; /* Card background color */
+    border: 1px solid #e0e0e0; /* Border color */
+    padding: 16px;
+    margin: 10px;
+    border-radius: 8px;
+  }
+  
+  .card h6 {
+    color: #333333;
+  }
+  
+  .card button {
+    background-color: #2196f3; /* Button background color */
+    color: #ffffff;
+    margin-top: 10px;
+  }
+  
+  .card button.delete {
+    background-color: #f44336; /* Delete button background color */
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  

@@ -1,0 +1,107 @@
+/* AdminDashboard.css
+
+.admin-dashboard {
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .admin-info {
+    margin-bottom: 20px;
+  }
+  
+  .admin-message {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .admin-actions {
+    margin-bottom: 30px;
+  }
+  
+  .btn-user-list,
+  .btn-vendor-list {
+    margin-right: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-user-list:hover,
+  .btn-vendor-list:hover {
+    background-color: #0056b3;
+  }
+  
+  .additional-info {
+    margin-top: 20px;
+  }
+  
+  .info-message {
+    font-size: 14px;
+    color: #666;
+  }
+   */
+
+
+   /* AdminDashboard.css */
+
+.admin-dashboard {
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid #940B92; /* Green border */
+  border-radius: 10px;
+  width: 80%;
+  max-width: 600px;
+  text-align: center;
+  background-color: #FFC7EA; /* Light grey background */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+}
+
+.admin-info {
+  margin-bottom: 20px;
+}
+
+.admin-message {
+  font-size: 18px; /* Larger font size */
+  color: #333;
+}
+
+.admin-actions {
+  margin-bottom: 30px;
+}
+
+.btn-user-list,
+.btn-vendor-list, .btn-contact-form {
+  margin-right: 10px;
+  padding: 12px 24px; /* Larger padding */
+  background-color: #DA0C81; /* Green background */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.btn-user-list:hover,
+.btn-vendor-list:hover, .btn-contact-form:hover {
+  background-color: #940b88; /* Darker green on hover */
+}
+
+.additional-info {
+  margin-top: 20px;
+}
+
+.info-message {
+  font-size: 16px; /* Larger font size */
+  color: #666;
+}

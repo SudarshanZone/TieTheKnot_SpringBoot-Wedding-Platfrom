@@ -1,0 +1,23 @@
+Navbar.css
+
+.nav-text {
+    display: block;
+    color: #792442 !important;
+    text-size-adjust: 20;
+    border-radius: 0.5rem;
+    
+    text-decoration: none;
+}
+
+#nav-dropdown-dark-example .dropdown-toggle::after {
+    color: blue; /* Change this to your desired color */
+}
+
+.nav-text:hover {
+    background-color: #DC8686 !important;
+    color: #711DB0;
+}
+
+.button{
+    background-color: #E57373;
+}

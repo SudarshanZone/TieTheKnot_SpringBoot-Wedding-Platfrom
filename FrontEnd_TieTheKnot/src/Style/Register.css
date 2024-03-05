@@ -1,0 +1,71 @@
+.register-container {
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .register-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .register-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .register-container label {
+    margin-bottom: 5px;
+  }
+  
+  .register-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .register-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .register-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .register-container .error {
+    color: red;
+  }
+  
+  /* CSS */
+
+.register-link {
+    margin-top: 20px;
+  }
+  
+  .register-link p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .register-link a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .register-link a:hover {
+    text-decoration: underline;
+  }
+  

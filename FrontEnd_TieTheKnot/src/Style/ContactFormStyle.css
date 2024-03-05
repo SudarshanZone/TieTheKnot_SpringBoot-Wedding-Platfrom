@@ -1,0 +1,59 @@
+/* ContactFormStyle.css */
+
+.contact-form-container {
+    width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-form-container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .contact-form-container label {
+    color: #555;
+  }
+  
+  .contact-form-container input[type="email"],
+  .contact-form-container input[type="text"],
+  .contact-form-container textarea {
+    margin-bottom: 20px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .contact-form-container button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #6C22A6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact-form-container button:disabled {
+    background-color: #ccc;
+  }
+  
+  .contact-form-container .error {
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .contact-form-container .success {
+    color: green;
+    margin-top: 10px;
+    text-align: center;
+  }

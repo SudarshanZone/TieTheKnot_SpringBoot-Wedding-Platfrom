@@ -4,7 +4,6 @@ Certainly! Here's an updated version of the README.md file with additional featu
 
 # TieTheKnot Wedding Services Platform
 
-![TieTheKnot Logo](link/to/your/logo.png)
 
 Welcome to the TieTheKnot Wedding Services Platform repository! This project aims to simplify and enhance the wedding services booking process by providing a comprehensive platform for users, vendors, and administrators.
 

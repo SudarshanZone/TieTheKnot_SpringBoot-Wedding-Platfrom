@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of the README.md file with additional features and more detailed information:
-
----
-
 # TieTheKnot Wedding Services Platform
 
 
